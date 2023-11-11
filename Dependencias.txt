@@ -1,0 +1,6 @@
+
+Inicio do projeto,
+
+npx create-react-app costs (pasta)
+npm install json-server react-icons react-router-dom uuid 
+
